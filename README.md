@@ -7,7 +7,7 @@ Check and Evaluate valid mathmetical expression and return result into fraction 
 
 # How to run the code
  
-
+* `git clone https://github.com/chakgopal/Expression_Checker.git`
  * `bundle install`
  * We will execute the program using the command `rake`
 
@@ -30,4 +30,3 @@ In your Rakefile add the RSpec task.
 
 run the unit tests and with command
 rspec
-
